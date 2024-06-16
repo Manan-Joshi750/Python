@@ -1,0 +1,58 @@
+apple, Red fruit often used in pies and salads
+banana, Yellow fruit with a curved shape
+orange, Round citrus fruit with a tangy flavor
+strawberry, Small, red fruit often used in desserts
+watermelon, Large fruit with green skin and red juicy flesh
+kiwi, Small, brown fruit with green flesh and black seeds
+grape, Small, round fruit often found in bunches
+pineapple, Tropical fruit with spiky skin and sweet flesh
+mango, Sweet, juicy fruit with a yellow-orange flesh
+pear, Juicy fruit with a sweet flavor and green or yellow skin
+elephant, Largest land mammal with a long trunk
+lion, Majestic big cat known as the "king of the jungle"
+tiger, Striped big cat with a powerful presence
+giraffe, Tall mammal with a long neck and distinct pattern
+zebra, Striped African animal resembling a horse
+penguin, Flightless bird with black and white plumage
+koala, Cute, cuddly marsupial native to Australia
+monkey, Agile mammal with a prehensile tail
+panda, Black and white bear-like mammal native to China
+dolphin, Intelligent marine mammal known for its playful behavior
+united states, Country located in North America with 50 states
+france, Western European country known for its cuisine and art
+japan, East Asian country known for its technology and culture
+brazil, Largest country in South America with the Amazon rainforest
+australia, Continent-country known for its unique wildlife
+india, South Asian country with diverse cultures and languages
+china, Most populous country in the world
+russia, Largest country in the world by land area
+canada, North American country known for its vast wilderness
+mexico, North American country with rich history and culture
+mumbai, Financial capital of India, known for Bollywood
+delhi, Capital city of India, with historical landmarks like Red Fort
+bangalore, IT hub of India, known for its pleasant climate
+kolkata, City of Joy, famous for its culture and cuisine
+chennai, Capital of Tamil Nadu, known for its beaches and temples
+hyderabad, City of Pearls, famous for its biryani and historic sites
+jaipur, Pink City, known for its palaces and forts
+pune, Educational hub with a vibrant student population
+ahmedabad, Largest city in Gujarat, known for its textile industry
+lucknow, City of Nawabs, famous for its cuisine and historical monuments
+bathinda, City in Punjab known for its thermal power plant and city of lakes
+jalandhar, City in Punjab famous for sports goods and manufacturing
+amritsar, City in Punjab known for the Golden Temple
+toyota, Known for the Corolla (reliable sedan) and Camry (popular midsize sedan)
+honda, Famous for the Civic (compact car) and Accord (midsize sedan)
+ford, Iconic with the Mustang (muscle car) and F-150 (best-selling pickup truck)
+chevrolet, Recognized for the Camaro (American sports car) and Silverado (versatile pickup)
+volkswagen, Notable for the Beetle (classic compact car) and Golf (popular hatchback)
+bmw, Renowned for the 3 Series (luxury sports sedan) and 5 Series (elegant executive car)
+mercedes-benz, Signature vehicles include the S-Class (premium luxury sedan) and E-Class (sophisticated executive sedan)
+audi, Standout models include the A4 (sleek executive sedan) and Q5 (advanced SUV)
+tesla, Revolutionary with the Model S (electric sedan) and Model 3 (futuristic electric car)
+hyundai, Stylish with the Elantra (compact car) and Tucson (sporty crossover)
+kia, Trendy with the Optima (stylish sedan) and Soul (distinctive compact car)
+fiat, Classic cars like the 500 (compact) and Panda (city-friendly vehicle)
+subaru, Known for the Outback (versatile crossover) and Forester (reliable SUV)
+nissan, Popular choices include the Altima (midsize sedan) and Rogue (compact SUV)
+mazda, Noteworthy models are the MX-5 Miata (sporty convertible) and Mazda3 (compact car)
