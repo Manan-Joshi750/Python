@@ -1,3 +1,20 @@
+**CODE SNIPPETS :**
+
+1. areaCalculation
+2. built-in_Functions
+3. calcGrade
+4. dataTypes
+5. digit_difference
+6. exchangeValues
+7. MaxBetween2
+8. MaxBetween3
+9. odd_even
+10. operators
+11. SI_CI
+12. signOfNumber
+
+**PROJECTS :**
+
 **1. Word Guessing Game**
 
 Welcome to the Word Guessing Game! This is a fun, interactive game where players guess a hidden word letter by letter. The game provides hints for each word and visually represents incorrect guesses with a hangman figure.
