@@ -1,4 +1,4 @@
-**Word Guessing Game**
+**1. Word Guessing Game**
 
 Welcome to the Word Guessing Game! This is a fun, interactive game where players guess a hidden word letter by letter. The game provides hints for each word and visually represents incorrect guesses with a hangman figure.
 
@@ -16,3 +16,26 @@ Welcome to the Word Guessing Game! This is a fun, interactive game where players
 2. **Enter the Path to the Word Library:** Provide the path to a text file containing words and hints.
 3. **Guess Letters:** Enter letters to guess the hidden word. You have a limited number of attempts based on the word's length.
 4. **Feedback and Hints:** Use the hint provided and the feedback from your guesses to figure out the word.
+
+**2. Tic Tac Toe Game**
+
+This is a simple Tic Tac Toe game implemented using Python's Tkinter library. The game allows two players to compete against each other and keeps track of the scores. The top 3 players' scores are displayed after each game.
+
+**Features**
+
+1. **Two Player Mode:** Allows two players to play the game alternately.
+2. **Score Tracking:** Keeps track of players' scores and updates them after each game.
+3. **Top Players Display:** Shows the top 3 players with the highest scores.
+4. **Simple UI:** User-friendly interface created with Tkinter.
+
+**How to Use**
+
+1. **Start the Game:** Enter the names of Player 1 (X) and Player 2 (O) and click "Start Game".
+2. **Play the Game:** Click on the buttons on the game board to make your move. The current player's symbol (X or O) will be displayed on the button.
+3. **Winning the Game:** The game checks for a winner after each move. If a player wins, a message box will display the winner's name and the score will be updated.
+4. **Draw:** If all cells are filled and there is no winner, the game ends in a draw.
+5. **Top Players:** After each game, the top 3 players' scores are displayed.
+
+**Creating Your Own Score File**
+
+You can create your own text file for scoring the game. The file should be named gamescores2.tx and if you want to give it some other name, then create a new text file with the name you want and place it in the same directory as the game script.
