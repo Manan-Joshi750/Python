@@ -12,6 +12,7 @@
 10. operators
 11. SI_CI
 12. signOfNumber
+13. longestPalindromicSubstring
 
 **PROJECTS :**
 
