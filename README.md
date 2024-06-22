@@ -13,6 +13,7 @@
 11. SI_CI
 12. signOfNumber
 13. longestPalindromicSubstring
+14. PasswordGenerator
 
 **PROJECTS :**
 
