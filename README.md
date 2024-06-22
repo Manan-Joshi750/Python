@@ -57,3 +57,26 @@ This is a simple Tic Tac Toe game implemented using Python's Tkinter library. Th
 **Creating Your Own Score File**
 
 You can create your own text file for scoring the game. The file should be named gamescores2.tx and if you want to give it some other name, then create a new text file with the name you want and place it in the same directory as the game script.
+
+**3. Number Guessing Game**
+
+This project is a simple number guessing game implemented in Python using the Tkinter library for graphical user interface (GUI). The game generates a random number between 1 and 100, and the player has a limited number of attempts to guess the correct number. Feedback is provided based on the proximity of each guess to the target number, with messages displayed in different colors for added clarity and engagement.
+
+**Features:**
+
+1. **Random Number Generation:** The game generates a random number between 1 and 100 each time it is played.
+2. **Limited Attempts:** Players have a maximum of 4 attempts to guess the correct number.
+3. **Proximity Messages:** Different messages are displayed based on how close the guess is to the target number:
+"Ahh, you're very close!" when within 5 units.
+"Alright... you are close." when within 10 units.
+"Too low! Try again." or "Too high! Try again." depending on whether the guess is below or above the target number.
+4. **GUI with Tkinter:** The game features a simple GUI built with Tkinter, including a text entry field for guesses, a submit button, and dynamic labels for feedback and hint display.
+5. **Dynamic Message Display:** Messages are displayed in different colors (e.g., red, green, orange, yellow, purple) to indicate different states or feedback.
+6. **User Interaction:** Players interact with the game through the GUI, entering their guesses and receiving immediate feedback on their progress towards guessing the correct number.
+
+**Usage:**
+
+1. Clone the repository or download the number_guessing_game.py file.
+2. Ensure you have Python installed on your system.
+3. Run the game by executing python number_guessing_game.py in your terminal or command prompt.
+4. Enter your guesses in the provided entry field and click "Submit Guess" to see feedback based on your guess.
