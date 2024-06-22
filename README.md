@@ -1,4 +1,4 @@
-**CODE SNIPPETS :**
+# CODE SNIPPETS :
 
 1. areaCalculation
 2. built-in_Functions
@@ -15,7 +15,7 @@
 13. longestPalindromicSubstring
 14. PasswordGenerator
 
-**PROJECTS :**
+# PROJECTS :
 
 **1. Word Guessing Game**
 
