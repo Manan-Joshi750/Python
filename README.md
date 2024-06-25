@@ -4,6 +4,7 @@
 2. built-in_Functions
 3. calcGrade
 4. dataTypes
+
 **5. digit_difference**
 6. exchangeValues
 7. MaxBetween2
@@ -12,15 +13,19 @@
 10. operators
 11. SI_CI
 12. signOfNumber
+
 **13. longestPalindromicSubstring**
+
 **14. PasswordGenerator**
 15. Factorial
 16. Fibonacci
 17. FizzBuzz
+
 **18. MatrixOperations**
 **19. MergeSort**
 **20. BinarySearch**
 21. PrimeCheck
+
 **22. OOPS_example**
 
 # PROJECTS :
