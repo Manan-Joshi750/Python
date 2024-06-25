@@ -1,6 +1,6 @@
 # CODE SNIPPETS :
 
-1. areaCalculation
+1. areaCalculation                        16.
 2. built-in_Functions
 3. calcGrade
 4. dataTypes
@@ -14,6 +14,7 @@
 12. signOfNumber
 13. longestPalindromicSubstring
 14. PasswordGenerator
+15. Factorial
 
 # PROJECTS :
 
