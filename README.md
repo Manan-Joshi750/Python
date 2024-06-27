@@ -22,6 +22,8 @@
 20. BinarySearch **<--**
 21. PrimeCheck
 22. OOPS_example **<--**
+23. longestUniqueSustring **<--**
+24. MaximumSubarray **<--**
 
 # PROJECTS :
 
