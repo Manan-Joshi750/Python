@@ -24,6 +24,8 @@
 22. OOPS_example **<--**
 23. longestUniqueSustring **<--**
 24. MaximumSubarray **<--**
+25. BubbleSort **<--**
+26. InsertionSort **<--**
 
 # PROJECTS :
 
